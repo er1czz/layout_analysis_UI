@@ -1,7 +1,7 @@
 # Detectron 2 based layout analysis by LayoutParser
 
-
 <p align="center"><img src="https://github.com/er1czz/layout_analysis_UI/blob/main/LayoutParser_Gradio.png" style = "border:10px solid white"></p> 
+
 ## Instruction and Notes
 - 1 select use case and model type
 - 2 set the IoU threshold, which controls the quality of layout analysis
